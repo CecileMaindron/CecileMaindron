@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Cécile
 
 **B2B Growth & Customer Marketing Specialist** focusing on pipeline acceleration, conversion optimization, and customer lifecycle marketing.
 
