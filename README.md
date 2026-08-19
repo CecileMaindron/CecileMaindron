@@ -39,4 +39,4 @@ I build, test, and scale acquisition and retention frameworks. My focus is on re
 * **Market Focus:** B2B SaaS, MarTech, International / Multi-region GTM (US, UK, EMEA)
 * **Languages:** English (Bilingual), French (Native), German (Fluent)
 * **Location:** Nantes / Paris, France (Available for local, hybrid, and remote roles)
-* **LinkedIn:** [linkedin.com/in/yourprofile](#)
+* **LinkedIn:** [linkedin.com/in/cmaindron](#)
