@@ -12,6 +12,7 @@ I build, test, and scale acquisition and retention frameworks. My focus is on re
 * **Full-Funnel Acquisition & GTM:** Running targeted inbound, SEO/SEM, and demand generation programs to capture high-intent B2B search traffic across global markets.
 * **Customer & Lifecycle Marketing:** Designing automated lead scoring, event-driven nurturing tracks, and customer proof/advocacy assets to drive activation, retention, and expansion.
 * **Growth Operations & Analytics:** Setting up event-tracking plans, mapping multi-touch pipelines, and building operational dashboards (Looker, Qlik, GA4) to track revenue impact.
+* **AI-Augmented Workflow Design:** Designing and directing AI-driven marketing workflows, prompt design, quality guardrails, human-in-the-loop validation, to remove manual bottlenecks from content and growth operations without giving up editorial or brand control. See [`funnel-sight`](https://github.com/CecileMaindron/funnel-sight) below.
 
 ---
 
@@ -20,17 +21,16 @@ I build, test, and scale acquisition and retention frameworks. My focus is on re
 * **Analytics & Performance:** Looker, Qlik, Google Analytics 4, Google Tag Manager, Excel / Google Sheets
 * **Testing & User Experience:** Optimizely, Pendo, Qualtrics
 * **Marketing Automation & CRM:** Marketo, Salesforce
+* **AI & Automation:** Claude (prompt design, process design), n8n (workflow automation)
 * **Core Skills:** Funnel Architecture, Lead Scoring, Copywriting, Lifecycle Workflows
 
 ---
 
-### Featured Repositories & Resources
+### Featured Repository
 
 | Repository | Focus |
 | :--- | :--- |
-| **[`growth-experimentation-framework`](#)** | ICE prioritization models, A/B test documentation templates, and funnel review checklists. |
-| **[`b2b-growth-analytics-templates`](#)** | Funnel conversion frameworks, trial onboarding review specs, and pipeline mapping models. |
-| **[`marketing-automation-and-tagging-schemas`](#)** | Event-tracking specifications, lead scoring logic, and UTM governance frameworks. |
+| **[`funnel-sight`](https://github.com/CecileMaindron/funnel-sight)** | Live marketing site for a fictional B2B SaaS, built to demonstrate an AI-driven, end-to-end SEO content production workflow (keyword research → generation → human validation → publication). |
 
 ---
 
