@@ -18,7 +18,7 @@ I build, test, and scale acquisition and retention frameworks. My focus is on re
 
 ### Stack & Frameworks
 
-* **Analytics & Performance:** Looker, Qlik, Google Analytics 4, Google Tag Manager, Excel / Google Sheets
+* **Analytics & Performance:** Data Studio, Qlik, Google Analytics 4, Google Tag Manager, Excel / Google Sheets
 * **Testing & User Experience:** Optimizely, Pendo, Qualtrics
 * **Marketing Automation & CRM:** Marketo, Salesforce
 * **AI & Automation:** Claude (prompt design, process design), n8n (workflow automation)
