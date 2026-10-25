@@ -18,6 +18,8 @@ This GitHub is where I build things myself.
 | :--- | :--- |
 | **[`funnelsight-site`](https://github.com/CecileMaindron/funnelsight-site)** | Live marketing site for a fictional B2B SaaS, built to demonstrate an AI-driven SEO content workflow: keyword research → generation → human validation → publication. |
 
+![Funnelsight workflow: keyword queue, AI draft by Claude, human review, live page published through a GitHub PR](funnelsight-publishing-flow.png)
+
 ### Writing
 
 I write on Medium about growth, measurement and managing teams through AI: [medium.com/@cmaindron](https://medium.com/@cmaindron)
