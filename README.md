@@ -31,4 +31,5 @@ Analytics: GA4, Data Studio, Qlik · Product & research: Pendo, Qualtrics · CRM
 ### Contact
 
 French (native) · English (fluent) · German (professional working proficiency)
+
 [linkedin.com/in/cmaindron](https://www.linkedin.com/in/cmaindron)
