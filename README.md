@@ -1,42 +1,32 @@
 # Hi, I'm Cécile
 
-**B2B Growth & Customer Marketing Specialist** focusing on pipeline acceleration, conversion optimization, and customer lifecycle marketing.
+B2B growth marketer based in Nantes, France. I've owned a revenue target, rebuilt a self-serve acquisition engine and expanded it beyond the US. Most of my work sits where customers judge the product rather than the promise: trials, sign-up flows, onboarding and the handoff to sales.
 
-I build, test, and scale acquisition and retention frameworks. My focus is on removing friction from the customer journey, aligning go-to-market efforts across teams, and running structured programs that directly generate measurable revenue.
+This GitHub is where I build things myself.
 
----
+### What I work on
 
-### Core Execution Areas
+- **Acquisition & conversion:** SEO, paid search, trial and sign-up flows, tests run with the teams behind each channel
+- **Self-serve & product-led growth:** trials, usage-based onboarding, sales handoff
+- **International growth:** choosing markets, testing before localizing, working with local teams
+- **Measurement:** funnel broken down by stage, targets worked back from revenue, pipeline over vanity metrics
+- **AI workflows:** AI-assisted content production with human review (see below)
 
-* **Funnel & CRO Optimization:** Auditing onboarding journeys, identifying drop-offs in trial/signup flows, and executing A/B testing programs to improve conversion rates.
-* **Full-Funnel Acquisition & GTM:** Running targeted inbound, SEO/SEM, and demand generation programs to capture high-intent B2B search traffic across global markets.
-* **Customer & Lifecycle Marketing:** Designing automated lead scoring, event-driven nurturing tracks, and customer proof/advocacy assets to drive activation, retention, and expansion.
-* **Growth Operations & Analytics:** Setting up event-tracking plans, mapping multi-touch pipelines, and building operational dashboards (Data Studio, Qlik, GA4) to track revenue impact.
-* **AI-Augmented Workflow Design:** Designing and directing AI-driven marketing workflows, prompt design, quality guardrails, human-in-the-loop validation, to remove manual bottlenecks from content and growth operations without giving up editorial or brand control. See [`funnelsight-site`](https://github.com/CecileMaindron/funnelsight-site) below.
-
----
-
-### Stack & Frameworks
-
-* **Analytics & Performance:** Data Studio, Qlik, Google Analytics 4, Google Tag Manager, Excel / Google Sheets
-* **Testing & User Experience:** Optimizely, Pendo, Qualtrics
-* **Marketing Automation & CRM:** Marketo, Salesforce
-* **AI & Automation:** Claude (prompt design, process design), n8n (workflow automation)
-* **Core Skills:** Funnel Architecture, Lead Scoring, Copywriting, Lifecycle Workflows
-
----
-
-### Featured Repository
+### Featured project
 
 | Repository | Focus |
 | :--- | :--- |
-| **[`funnelsight-site`](https://github.com/CecileMaindron/funnelsight-site)** | Live marketing site for a fictional B2B SaaS, built to demonstrate an AI-driven, end-to-end SEO content production workflow (keyword research → generation → human validation → publication). |
+| **[`funnelsight-site`](https://github.com/CecileMaindron/funnelsight-site)** | Live marketing site for a fictional B2B SaaS, built to demonstrate an AI-driven SEO content workflow: keyword research → generation → human validation → publication. |
 
----
+### Writing
 
-### Operational Profile
+I write on Medium about growth, measurement and managing teams through AI: [medium.com/@cmaindron](https://medium.com/@cmaindron)
 
-* **Market Focus:** B2B SaaS, MarTech, International / Multi-region GTM (US, UK, EMEA)
-* **Languages:** English (Bilingual), French (Native), German (Fluent)
-* **Location:** Nantes / Paris, France (Available for local, hybrid, and remote roles)
-* **LinkedIn:** [linkedin.com/in/cmaindron](#)
+### Tools
+
+Analytics: GA4, Data Studio, Qlik · Product & research: Pendo, Qualtrics · CRM & automation: Salesforce, Marketo · AI: Claude, n8n
+
+### Contact
+
+French (native) · English (fluent) · German (professional working proficiency)
+[linkedin.com/in/cmaindron](https://www.linkedin.com/in/cmaindron)
